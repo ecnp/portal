@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "name": "Frontend Architecture",
+    "path": "",
+    "logo": "microfront",
+    "title": "Usa eCNF para crear aplicaciones Web Responsive o agregar capacidades a tus aplicaciones legadas",
+    "detail": {
+      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado, y tiene como principal objetivo mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
+      "benefits": [
+        "Reducción del TimeToMarket",
+        "Desarrollo seguro",
+        "Monitoreo de aplicaciones",
+        "Estandarización y gobierno",
+        "Soporte Multiframework"
+      ],
+      "capabilities": [
+        {
+          "name": "Autenticacion",
+          "logo": "password",
+          "description": "",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Storage Seguro",
+          "logo": "database",
+          "description": "database",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Encriptación",
+          "description": "",
+          "logo": "lock",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Web Browser Loggger",
+          "description": "",
+          "logo": "browserLogger",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Error Handler",
+          "description": "",
+          "logo": "settings",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Micro Frontends",
+          "description": "",
+          "logo": "framework",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "CLI",
+          "description": "",
+          "logo": "code",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Mock Server",
+          "description": "",
+          "logo": "framework",
+          "gettingStarted": "",
+          "APIREF": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Micro Services",
+    "path": "",
+    "logo": "microservices",
+    "title": "Crea microservicios de manera fácil y rápida utilizando los artefactos y características de eCNF",
+    "detail": {
+      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado, y tiene como principal objetivo mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
+      "benefits": [
+        "Reducción del TimeToMarket",
+        "Desarrollo seguro",
+        "Monitoreo de aplicaciones",
+        "Estandarización y gobierno",
+        "Soporte Multiframework"
+      ],
+      "capabilities": [
+        {
+          "name": "Autenticacion",
+          "logo": "password",
+          "description": "",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Storage Seguro",
+          "logo": "database",
+          "description": "database",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Encriptación",
+          "description": "",
+          "logo": "lock",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Web Browser Loggger",
+          "description": "",
+          "logo": "browserLogger",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Error Handler",
+          "description": "",
+          "logo": "settings",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Micro Frontends",
+          "description": "",
+          "logo": "framework",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "CLI",
+          "description": "",
+          "logo": "code",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Mock Server",
+          "description": "",
+          "logo": "framework",
+          "gettingStarted": "",
+          "APIREF": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "name": "Hibrid & MultiCloud",
+    "path": "",
+    "logo": "multicloud",
+    "title": "Aprovisiona toda la plataforma de integración y delivery continuo de forma rápida y sencilla",
+    "detail": {
+      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado, y tiene como principal objetivo mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
+      "benefits": [
+        "Reducción del TimeToMarket",
+        "Desarrollo seguro",
+        "Monitoreo de aplicaciones",
+        "Estandarización y gobierno",
+        "Soporte Multiframework"
+      ],
+      "capabilities": [
+        {
+          "name": "Autenticacion",
+          "logo": "password",
+          "description": "",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Storage Seguro",
+          "logo": "database",
+          "description": "database",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Encriptación",
+          "description": "",
+          "logo": "lock",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Web Browser Loggger",
+          "description": "",
+          "logo": "browserLogger",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Error Handler",
+          "description": "",
+          "logo": "settings",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Micro Frontends",
+          "description": "",
+          "logo": "framework",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "CLI",
+          "description": "",
+          "logo": "code",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Mock Server",
+          "description": "",
+          "logo": "framework",
+          "gettingStarted": "",
+          "APIREF": ""
+        }
+      ]
+    }
+  }
+]
