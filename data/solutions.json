@@ -4,145 +4,131 @@
     "name": "Frontend Architecture",
     "path": "",
     "logo": "microfront",
-    "title": "Usa eCNF para crear aplicaciones Web Responsive o agregar capacidades a tus aplicaciones legadas",
+    "title": "Acelerar la creación de aplicaciones Web Responsive y mejora las experiencia de usuario.",
     "detail": {
-      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado, y tiene como principal objetivo mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
+      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado con el principal objetivo de mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
       "benefits": [
         "Reducción del TimeToMarket",
         "Desarrollo seguro",
         "Monitoreo de aplicaciones",
         "Estandarización y gobierno",
-        "Soporte Multiframework"
+        "Reduccion de la Obsolescencia Tecnologica"
       ],
       "capabilities": [
         {
+          "name": "Micro Frontends",
+          "description": "Arquitectura base para el desarrollo de Micro Frontends haciendo uso del API de Custom Elements y Azure CDN para el delivery en produccion.",
+          "logo": "framework",
+          "gettingStarted": "https://steps.everis.com/confluence/display/ECNF/Micro+Aplicaciones",
+          "APIREF": "https://steps.everis.com/confluence/display/ECNF/Micro+Aplicaciones"
+        },
+        {
           "name": "Autenticacion",
           "logo": "password",
-          "description": "",
-          "gettingStarted": "",
-          "APIREF": ""
+          "description": "SDK que habilita el manejo de Authenticacion y Autorizacion en las aplicaciones haciendos uso de Oauth 2.0 ",
+          "gettingStarted": "https://steps.everis.com/confluence/pages/viewpage.action?pageId=1188627394",
+          "APIREF": "https://steps.everis.com/confluence/display/ECNF/Auth+Manager"
         },
         {
           "name": "Storage Seguro",
           "logo": "database",
-          "description": "database",
-          "gettingStarted": "",
-          "APIREF": ""
+          "description": "SDK que permite almacenar de forma segura la data en reposo en los stroage del navegador () haciendo uso de el estandar de encriptacion AES",
+          "gettingStarted": "https://steps.everis.com/confluence/display/ECNF/Storage",
+          "APIREF": "https://steps.everis.com/confluence/display/ECNF/Storage+Manager"
         },
         {
           "name": "Encriptación",
-          "description": "",
+          "description": "SDK de encriptación, el cual permite la seguridad(cifrado) en los diferentes gestores de almacenamiento actuales (browser, traffic, etc), utilizando algoritmos basados en los estándares AES (encriptación simétrica) y RSA.",
           "logo": "lock",
-          "gettingStarted": "",
-          "APIREF": ""
+          "gettingStarted": "https://steps.everis.com/confluence/display/ECNF/Encryptor+Manager",
+          "APIREF": "https://steps.everis.com/confluence/display/ECNF/Encryptor+Manager"
         },
         {
           "name": "Web Browser Loggger",
-          "description": "",
+          "description": "SDK para la gestion y manejo de log en la aplicaciones Frontend que permite establecer niveles de incidencias segun el entorno donde se este ejecutando.",
           "logo": "browserLogger",
-          "gettingStarted": "",
-          "APIREF": ""
+          "gettingStarted": "https://steps.everis.com/confluence/display/ECNF/Manejo+de+Log",
+          "APIREF": "https://steps.everis.com/confluence/display/ECNF/Logger+Manager"
         },
         {
-          "name": "Error Handler",
-          "description": "",
+          "name": "NG Error Handler",
+          "description": "Este SDK habilita la capacidad de controlar los errores en aplicaciones Angulares, evitando así el mal funcionamiento en produccion por errores no mapeados. Adicionalemnte permite el envio de todas estas incidencias a un API Rest para su revision y auditoria.",
           "logo": "settings",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Micro Frontends",
-          "description": "",
-          "logo": "framework",
-          "gettingStarted": "",
-          "APIREF": ""
+          "gettingStarted": "https://steps.everis.com/confluence/display/ECNF/Error+Handler",
+          "APIREF": "https://steps.everis.com/confluence/pages/viewpage.action?pageId=1204892086"
         },
         {
           "name": "CLI",
-          "description": "",
+          "description": "Linea de Comando que facilita la crecion e Arquetipos para acelerar el desarrollo e las aplicaciones Frontends estableciedno estandares y modelos de Arqutectura referenciales en el mercado",
           "logo": "code",
-          "gettingStarted": "",
-          "APIREF": ""
+          "gettingStarted": "https://steps.everis.com/confluence/display/ECNF/CLI",
+          "APIREF": "https://steps.everis.com/confluence/display/ECNF/CLI"
         },
         {
           "name": "Mock Server",
-          "description": "",
+          "description": "Servidor en Express que a partir de un conjunto de JSON provee datos dummy, que permiten probar las aplicaciones simulando un ambiente real de consumo de APIS.",
           "logo": "framework",
-          "gettingStarted": "",
-          "APIREF": ""
+          "gettingStarted": "https://steps.everis.com/confluence/display/ECNF/API+Mock",
+          "APIREF": "https://steps.everis.com/confluence/display/ECNF/API+Mock"
         }
       ]
     }
   },
   {
     "id": "2",
-    "name": "Micro Services",
+    "name": "Micro Services & Serverles",
     "path": "",
     "logo": "microservices",
-    "title": "Crea microservicios de manera fácil y rápida utilizando los artefactos y características de eCNF",
+    "title": "Permite Crea microservicios de manera fácil y rápida utilizando los artefactos y características de eCNF",
     "detail": {
-      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado, y tiene como principal objetivo mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
+      "description": "Plataforma de desarrollo Backend que reúne un conjunto de buenas practicas y estándares del mercado y tiene como principal objetivo acelerar el desarrollo de Backend orientado a MicroServicios y Serverles.",
       "benefits": [
         "Reducción del TimeToMarket",
         "Desarrollo seguro",
         "Monitoreo de aplicaciones",
         "Estandarización y gobierno",
-        "Soporte Multiframework"
+         "Reduccion de la Obsolescencia Tecnologica"
       ],
       "capabilities": [
         {
-          "name": "Autenticacion",
-          "logo": "password",
-          "description": "",
+          "name": "Reactor Framework",
+          "logo": "framework",
+          "description": "Framework de desarrolo de Micro Servicios reactivos usando Java (8.x) y Swagger 2.9.2 ",
           "gettingStarted": "",
           "APIREF": ""
         },
         {
-          "name": "Storage Seguro",
-          "logo": "database",
-          "description": "database",
+          "name": "Quarkus Serverles",
+          "logo": "framework",
+          "description": "Framework para el desarrolo Serverles con enfoque Cloud Agnostic orinetado a el desarrollo de Lambdas con Sprint Boot",
           "gettingStarted": "",
           "APIREF": ""
         },
         {
-          "name": "Encriptación",
-          "description": "",
-          "logo": "lock",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Web Browser Loggger",
-          "description": "",
-          "logo": "browserLogger",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Error Handler",
-          "description": "",
-          "logo": "settings",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Micro Frontends",
-          "description": "",
+          "name": "Quarkus Micro Services",
+          "description": "Framework de desarrolo de Micro Servicios Tradicionales usando Sprint Boot",
           "logo": "framework",
           "gettingStarted": "",
           "APIREF": ""
         },
         {
-          "name": "CLI",
-          "description": "",
+          "name": "Reactor Generator",
+          "description": "Developer portal que permite a los desarrolladores la generacion de arquetipos para la construccion de MicroServicios usando el eCNP",
           "logo": "code",
           "gettingStarted": "",
           "APIREF": ""
         },
         {
-          "name": "Mock Server",
-          "description": "",
-          "logo": "framework",
+          "name": "Error Catalog",
+          "description": "Micro Servicios que habilita la gestion y el manejo del catalogo de errores",
+          "logo": "browserLogger",
+          "gettingStarted": "",
+          "APIREF": ""
+        },
+        {
+          "name": "Config Serve",
+          "description": "Micro Servicios que habilita el Servidor de Configuraciones",
+          "logo": "settings",
           "gettingStarted": "",
           "APIREF": ""
         }
@@ -164,64 +150,43 @@
         "Estandarización y gobierno",
         "Soporte Multiframework"
       ],
-      "capabilities": [
-        {
-          "name": "Autenticacion",
-          "logo": "password",
-          "description": "",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Storage Seguro",
-          "logo": "database",
-          "description": "database",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Encriptación",
-          "description": "",
-          "logo": "lock",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Web Browser Loggger",
-          "description": "",
-          "logo": "browserLogger",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Error Handler",
-          "description": "",
-          "logo": "settings",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Micro Frontends",
-          "description": "",
-          "logo": "framework",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "CLI",
-          "description": "",
-          "logo": "code",
-          "gettingStarted": "",
-          "APIREF": ""
-        },
-        {
-          "name": "Mock Server",
-          "description": "",
-          "logo": "framework",
-          "gettingStarted": "",
-          "APIREF": ""
-        }
-      ]
+      "capabilities": []
+    }
+  },
+  {
+    "id": "4",
+    "name": "Devops",
+    "path": "",
+    "logo": "devops",
+    "title": "Aprovisiona toda la plataforma de integración y delivery continuo de forma rápida y sencilla",
+    "detail": {
+      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado, y tiene como principal objetivo mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
+      "benefits": [
+        "Reducción del TimeToMarket",
+        "Desarrollo seguro",
+        "Monitoreo de aplicaciones",
+        "Estandarización y gobierno",
+        "Soporte Multiframework"
+      ],
+      "capabilities": []
+    }
+  },
+  {
+    "id": "5",
+    "name": "IoT Edge",
+    "path": "",
+    "logo": "iotedge",
+    "title": "Mejora la toma de decisiones en tiempo real y reducir los requisitos de transporte y almacenamiento de datos de IoT",
+    "detail": {
+      "description": "Plataforma de desarrollo Frontend que reúne un conjunto de buenas practicas y estándares del mercado, y tiene como principal objetivo mejorar la seguridad y el tiempo de desarrollo de las aplicaciones Frontend.",
+      "benefits": [
+        "Reducción del TimeToMarket",
+        "Desarrollo seguro",
+        "Monitoreo de aplicaciones",
+        "Estandarización y gobierno",
+        "Soporte Multiframework"
+      ],
+      "capabilities": []
     }
   }
 ]

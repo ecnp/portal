@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://ecnp.github.io/portal/static/css/main.cd1a037b.chunk.css",
-    "main.js": "https://ecnp.github.io/portal/static/js/main.d8b56fa3.chunk.js",
-    "main.js.map": "https://ecnp.github.io/portal/static/js/main.d8b56fa3.chunk.js.map",
+    "main.css": "https://ecnp.github.io/portal/static/css/main.35c67c4b.chunk.css",
+    "main.js": "https://ecnp.github.io/portal/static/js/main.ff23287c.chunk.js",
+    "main.js.map": "https://ecnp.github.io/portal/static/js/main.ff23287c.chunk.js.map",
     "runtime-main.js": "https://ecnp.github.io/portal/static/js/runtime-main.2a1cdb29.js",
     "runtime-main.js.map": "https://ecnp.github.io/portal/static/js/runtime-main.2a1cdb29.js.map",
     "static/js/2.ca9e8833.chunk.js": "https://ecnp.github.io/portal/static/js/2.ca9e8833.chunk.js",
     "static/js/2.ca9e8833.chunk.js.map": "https://ecnp.github.io/portal/static/js/2.ca9e8833.chunk.js.map",
     "index.html": "https://ecnp.github.io/portal/index.html",
-    "precache-manifest.25a8f5bcf9aae77e385dbdb291ffa11e.js": "https://ecnp.github.io/portal/precache-manifest.25a8f5bcf9aae77e385dbdb291ffa11e.js",
+    "precache-manifest.877d8e5e41b9be835f3def19079add29.js": "https://ecnp.github.io/portal/precache-manifest.877d8e5e41b9be835f3def19079add29.js",
     "service-worker.js": "https://ecnp.github.io/portal/service-worker.js",
-    "static/css/main.cd1a037b.chunk.css.map": "https://ecnp.github.io/portal/static/css/main.cd1a037b.chunk.css.map",
+    "static/css/main.35c67c4b.chunk.css.map": "https://ecnp.github.io/portal/static/css/main.35c67c4b.chunk.css.map",
     "static/js/2.ca9e8833.chunk.js.LICENSE.txt": "https://ecnp.github.io/portal/static/js/2.ca9e8833.chunk.js.LICENSE.txt",
     "static/media/IoTEdge_logo.svg": "https://ecnp.github.io/portal/static/media/IoTEdge_logo.5b053312.svg",
     "static/media/arquitectura_logo.svg": "https://ecnp.github.io/portal/static/media/arquitectura_logo.716a4cce.svg",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.2a1cdb29.js",
     "static/js/2.ca9e8833.chunk.js",
-    "static/css/main.cd1a037b.chunk.css",
-    "static/js/main.d8b56fa3.chunk.js"
+    "static/css/main.35c67c4b.chunk.css",
+    "static/js/main.ff23287c.chunk.js"
   ]
 }
